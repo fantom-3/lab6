@@ -1,0 +1,6 @@
+help
+info
+execute_script script2.txt
+show
+remove_head
+filter_starts_with_name Alex
